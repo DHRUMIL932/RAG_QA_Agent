@@ -1,0 +1,51 @@
+Company Handbook: Nimbus Cloud Solutions
+
+About Nimbus Cloud Solutions
+
+Nimbus Cloud Solutions was founded in 2016 and provides cloud infrastructure and DevOps automation tools for small and medium-sized businesses. The company is headquartered in Austin, Texas, and has remote employees across 12 countries. Nimbus serves over 3,000 customers, ranging from early-stage startups to mid-market enterprises.
+
+Product Overview
+
+Nimbus offers three core products:
+
+1. NimbusDeploy - a one-click deployment platform that supports Docker, Kubernetes, and serverless functions.
+
+2. NimbusMonitor - a real-time observability suite offering log aggregation, metrics dashboards, and automated alerting.
+
+3. NimbusVault - a secrets management and encryption service used to store API keys, credentials, and certificates securely.
+
+Pricing Plans
+
+Nimbus offers four pricing tiers:
+
+- Starter: Free for up to 2 projects, includes basic monitoring.
+- Growth: $49/month per project, includes NimbusDeploy and NimbusMonitor.
+- Scale: $199/month per project, adds NimbusVault and priority support.
+- Enterprise: Custom pricing, includes dedicated infrastructure, SSO, and a named customer success manager.
+
+Support Policy
+
+Standard support is available via email with a 24-hour response time for Growth and Scale plans. Enterprise customers receive 24/7 phone and chat support with a guaranteed 1-hour response time for critical incidents. All plans include access to the community forum and public documentation.
+
+Security and Compliance
+
+Nimbus is SOC 2 Type II certified and undergoes annual third-party penetration testing. All customer data is encrypted at rest using AES-256 and in transit using TLS 1.3. Nimbus is GDPR compliant and offers data residency options in the US, EU, and APAC regions for Enterprise customers.
+
+Onboarding Process
+
+New customers go through a four-step onboarding process:
+
+1. Account setup and team invitation.
+2. Connecting a cloud provider (AWS, GCP, or Azure).
+3. Deploying a first project using a guided template.
+4. Configuring monitoring and alert thresholds.
+
+The typical onboarding process takes less than 30 minutes for Starter and Growth customers, and is supported by a dedicated onboarding specialist for Enterprise customers.
+
+Refund Policy
+
+Nimbus offers a 14-day money-back guarantee on all paid plans. Refund requests must be submitted through the billing dashboard or by emailing billing@nimbuscloud.example. Refunds are processed within 5-7 business days.
+
+Company Values
+
+Nimbus operates according to four core values: Customer Obsession, Bias for Action, Radical Transparency, and Sustainable Growth. These values guide hiring decisions, product roadmap prioritization, and internal performance reviews.
